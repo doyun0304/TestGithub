@@ -6,5 +6,7 @@ public class TestGithub {
         System.out.println("SEO");
 
         System.out.println("남현호");
+
+        System.out.println("안찐 안진");
     }
 }
